@@ -49,3 +49,10 @@ theme: Gaia
     * **Day 1** - POC / MVP - apply in local use case: organic, flexible, ease to make
     * **Day 2** - BAU support - scale up & out: predictable, reliable, accountable
 * POC is always _easy_, Production (scale up) is _hard_
+
+---
+
+# Upkeeping
+
+* Try your best to fill in timesheet - a _weekly_ figure per project will do
+* Annual leave - plan the leave and use it. Carry over is ok.
